@@ -1,0 +1,22 @@
+{
+  "name": "hollywoodnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steventran1983/nail.git"
+  },
+  "author": "tct",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steventran1983/nail/issues"
+  },
+  "homepage": "https://github.com/steventran1983/nail#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
